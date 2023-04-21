@@ -1,0 +1,24 @@
+body{
+    background-color: hsl(212, 45%, 89%)
+}
+
+h1{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+p{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+img{
+    border-radius: 15px;
+    max-width: 20%;
+    height:auto;
+    margin-top: 100px;
+    margin-left: 700px;
+    }
